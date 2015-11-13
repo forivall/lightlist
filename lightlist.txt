@@ -1,39 +1,45 @@
-# ?
+[Adblock Plus 2.0]
+! Title: forivall's lightlist
+! Homepage: https://github.com/forivall/lightlist
+! License: CC-BY-SA 4.0
+
+
+! ?
 ||cdn.adgear.com^
 
-# C
+! C
 ||media.contextweb.com^
 
-# AD
+! AD
 ||pagead2.googlesyndication.com^
 ||partner.googleadservices.com^
 
-# ?
+! ?
 ||ad4.liverail.com^
 
-# F
+! F
 ||s.moatads.com^
 
-# F
+! F
 ||uk-ads.openx.net^
 
-# C
+! C
 ||widgets.outbrain.com^
 
-# ?
+! ?
 ||ads.pictela.net^
 
-# F
+! F
 ||ads.rubiconproject.com^
 
-# AF
+! AF
 ||live.sekindo.com^
 
-# ?
+! ?
 ||ads.servebom.com^
 
-# ?
+! ?
 ||cdn.taboola.com^
 
-# A
+! A
 ||a.tribalfusion.com^
