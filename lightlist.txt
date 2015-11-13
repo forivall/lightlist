@@ -1,0 +1,39 @@
+# ?
+||cdn.adgear.com^
+
+# C
+||media.contextweb.com^
+
+# AD
+||pagead2.googlesyndication.com^
+||partner.googleadservices.com^
+
+# ?
+||ad4.liverail.com^
+
+# F
+||s.moatads.com^
+
+# F
+||uk-ads.openx.net^
+
+# C
+||widgets.outbrain.com^
+
+# ?
+||ads.pictela.net^
+
+# F
+||ads.rubiconproject.com^
+
+# AF
+||live.sekindo.com^
+
+# ?
+||ads.servebom.com^
+
+# ?
+||cdn.taboola.com^
+
+# A
+||a.tribalfusion.com^
