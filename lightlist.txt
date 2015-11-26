@@ -43,3 +43,24 @@
 
 ! A
 ||a.tribalfusion.com^
+
+! C
+||ssl-nau.hexagram.com^
+
+! C
+||*.mgid.com^
+
+! C
+||trends.revcontent.com^
+
+! C
+||*.grvcdn.com^
+
+! A (probably; it doesn't load properly since I'm in Canada)
+||*.zuus.com^
+
+! C
+||contextual.media.net^
+
+! C
+||a.disquscdn.com/next/embed/discovery.bundle.*.js$script
